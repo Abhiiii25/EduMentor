@@ -107,6 +107,8 @@ streamlit run app.py
 
 ![image_alt](https://github.com/Abhiiii25/EduMentor/blob/fbcb4088ef5450aea07c65dd0ad03ac42693025d/student-dashboard.png)
 
+![image_alt](https://github.com/Abhiiii25/EduMentor/blob/12d5d2e3ccdec00df83057e505ca2d0a43ee5fb4/teacher-dashboard.png)
+
 
 
 
@@ -132,14 +134,3 @@ MIT License © 2025 [Abhiiii25](https://github.com/Abhiiii25)
 * [Hugging Face](https://huggingface.co/)
 * [Streamlit](https://streamlit.io/)
 
----
-
-### 🔗 [Live Demo Coming Soon...](#)
-
----
-
-### ✅ Next Step:
-
-**Save this as your `README.md` in the root folder.**
-
-Let me know if you want to generate a GitHub-style banner or include badges (e.g., `Python`, `Streamlit`, `License`, `Stars`). I can help you with that too!
