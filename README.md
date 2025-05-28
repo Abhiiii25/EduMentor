@@ -2,7 +2,6 @@
   <img src="assets/banner.png" width="100%" alt="EduMentor Banner"/>
 </p>
 
-![image_alt](https://github.com/Abhiiii25/EduMentor/blob/19ce5a39c909e986409eef7669f59944e9cc0c2b/assets/banner.png)
 
 ### ✅ **EduMentor - AI-Powered Student Success Platform**
 
