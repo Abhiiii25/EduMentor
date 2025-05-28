@@ -114,6 +114,8 @@ streamlit run app.py
 
 ![image_alt](https://github.com/Abhiiii25/EduMentor/blob/12d5d2e3ccdec00df83057e505ca2d0a43ee5fb4/teacher-dashboard.png)
 
+![image_alt](https://github.com/Abhiiii25/EduMentor/blob/3215a5576fbfa23256f0d19618379aebcfbd6e77/teacher-email.png)
+
 
 
 
