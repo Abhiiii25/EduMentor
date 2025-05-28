@@ -1,0 +1,36 @@
+# Core RAG + Agent Tools
+langchain>=0.1.0
+langchain-community
+langchain-core
+langchainhub
+faiss-cpu
+sentence-transformers
+huggingface-hub
+
+# LLM APIs
+groq  # Only if you're using Groq's LLaMA-3.3 70B model via API
+
+# PDF and file parsing
+pymupdf  # For extracting text from PDFs
+unstructured
+tqdm
+
+# Frontend
+streamlit
+streamlit-chat
+streamlit-option-menu
+
+# Vector Store & Serialization
+pydantic
+numpy
+scikit-learn
+
+# Optional NLP Utilities
+nltk
+spacy
+
+# Security note for LangChain pickling
+click
+
+# For ensuring compatibility in async environments
+nest_asyncio
