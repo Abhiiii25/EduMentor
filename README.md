@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="EduMentor Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3.10-blue.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/github/license/Abhiiii25/EduMentor?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Abhiiii25/EduMentor?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agent-LangChain-ffce00?style=for-the-badge&logo=OpenAI&logoColor=black"/>
-  <img src="https://img.shields.io/badge/RAG-Groq%20LLaMA--3.3-ff69b4?style=for-the-badge"/>
-</p>
-
 
 ### ✅ **EduMentor - AI-Powered Student Success Platform**
 
