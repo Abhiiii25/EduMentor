@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="EduMentor Banner"/>
-</p>
 
 
 ### ✅ **EduMentor - AI-Powered Student Success Platform**
@@ -8,6 +5,10 @@
 ### 🎓 Empowering Students. Supporting Teachers. Driving Academic Success.
 
 EduMentor is an intelligent education platform designed to **predict student risk**, **personalize learning**, and **support teachers** with insights, alerts, and AI-powered tools.
+
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="EduMentor Banner"/>
+</p>
 
 ---
 
