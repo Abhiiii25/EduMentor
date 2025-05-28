@@ -101,7 +101,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-![image_alt]()
+![image_alt](https://github.com/Abhiiii25/EduMentor/blob/65e761fd3e1b0a8c8621512cb9e4ba8783725f5e/Screenshot%202025-05-28%20224821.png)
 
 ---
 
