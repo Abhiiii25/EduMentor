@@ -105,6 +105,10 @@ streamlit run app.py
 
 ![image_alt](https://github.com/Abhiiii25/EduMentor/blob/04efd8d1ad5c16681376a60606d6ad88cbdb5472/rag-ai-tutor.png)
 
+![image_alt](https://github.com/Abhiiii25/EduMentor/blob/fbcb4088ef5450aea07c65dd0ad03ac42693025d/student-dashboard.png)
+
+
+
 
 
 ---
