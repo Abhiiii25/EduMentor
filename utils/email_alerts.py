@@ -2,9 +2,9 @@ import smtplib
 from email.message import EmailMessage
 
 def send_email_alert(to_email, student_name, risk_score):
-    # Set your email details
-    FROM_EMAIL = "abhigaikwad089@gmail.com"  # Replace with your sender email
-    FROM_PASSWORD = "phxs gens pepp mexv"   # App-specific password or actual password
+
+    FROM_EMAIL = "abhigaikwad089@gmail.com"  
+    FROM_PASSWORD = "phxs gens pepp mexv"  
     SUBJECT = f"🚨 Alert: {student_name} is At Risk"
     BODY = f"""
     Dear Teacher,
