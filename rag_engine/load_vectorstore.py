@@ -7,7 +7,7 @@ def load_vectorstore():
     db = FAISS.load_local(
         folder_path="edu_vector_store",
         embeddings=embeddings,
-        allow_dangerous_deserialization=True  # ✅ This is safe if the store was created by you
+        allow_dangerous_deserialization=True  
     )
     return db
 

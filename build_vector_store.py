@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()  
 
-# Path to your main knowledge base folder
+
 BASE_PATH = "edu_knowledge_base"
 
 def load_documents(base_path):

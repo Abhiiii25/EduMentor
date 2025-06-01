@@ -14,7 +14,7 @@ def query_llama3(prompt):
     }
 
     payload = {
-        "model": "llama3-70b-8192",  # ✅ Correct model name for Groq as of now
+        "model": "llama3-70b-8192",  
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.7
     }

@@ -23,7 +23,7 @@ def get_all_tools():
     ]
 
 def run_student_agent(query: str):
-    # Initialize your LLM
+    # Initialize LLM
     llm = ChatGroq(
         groq_api_key="groq_api_key",  
         model_name="llama3-70b-8192",
